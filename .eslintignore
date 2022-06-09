@@ -1,0 +1,6 @@
+dist
+build
+coverage
+doc
+webpack.*.js
+App.test.js
